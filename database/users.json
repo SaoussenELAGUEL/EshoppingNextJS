@@ -1,0 +1,85 @@
+{ 
+    "_id" : ObjectId("642d3545f21bffe1ec1f784e"), 
+    "email" : "leila_ftiricg@yahoo.fr", 
+    "password" : "$2b$10$nSkZs7gIMzI/ByY4QcgGs.x2k/HoRx55kfJyBaox6elei61N4if.K", 
+    "firstname" : "Leila", 
+    "lastname" : "FTIRICH", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-05T08:45:57.804+0000"), 
+    "updatedAt" : ISODate("2023-04-05T08:45:57.804+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("642d49f68c3aa8676efcd288"), 
+    "email" : "saoussen_aguel@gmail.com", 
+    "password" : "$2b$10$hVewfe.8jVAiQqEdshCVW.yL6tx7InovmujlFdOhf0zA7URxgKlgu", 
+    "firstname" : "saoussen", 
+    "lastname" : "aguel", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-05T10:14:14.788+0000"), 
+    "updatedAt" : ISODate("2023-04-05T10:14:14.788+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("642fd1150d34203a38176a8f"), 
+    "email" : "saoussenaguel@gmail.com", 
+    "password" : "$2b$10$5p/c4k8KI89qR.HsvHO6FeXRE3iNkiNlQRfhcEZvS3LC7wCK8ovHG", 
+    "firstname" : "Sawssen", 
+    "lastname" : "elaguel", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-07T08:15:17.888+0000"), 
+    "updatedAt" : ISODate("2023-04-07T08:15:17.888+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("642fd6d3f6dd559118dceaab"), 
+    "email" : "ali.louati@gmail.com", 
+    "password" : "$2b$10$P5hc0gdFA0kyZFhXvcKpmOUqop4HpW/7QAUm1NVqKHeAtre8BZNTe", 
+    "firstname" : "Louati", 
+    "lastname" : "Ali", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-07T08:39:47.150+0000"), 
+    "updatedAt" : ISODate("2023-04-07T08:39:47.150+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("64390ea3778bf6079f40f7f1"), 
+    "email" : "mou@gmail.com", 
+    "password" : "$2b$10$Ee0UFVg9fOoxsvwGVPQbJu5sgH0h7QUzYkCNg5c7MKZWI7xXTBMNy", 
+    "firstname" : "Moura", 
+    "lastname" : "mou", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-14T08:28:20.026+0000"), 
+    "updatedAt" : ISODate("2023-04-14T08:28:20.026+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("643916ddbb0181838d1ac340"), 
+    "email" : "samiabidi@gmail.com", 
+    "password" : "$2b$10$TWeUsuWDfKUMZehedCWwFeGvBVLHejU8DG2ZCshTIk8Dd2F36OCF6", 
+    "firstname" : "Sami", 
+    "lastname" : "Abidi", 
+    "role" : "user", 
+    "isActive" : true, 
+    "createdAt" : ISODate("2023-04-14T09:03:25.808+0000"), 
+    "updatedAt" : ISODate("2023-04-14T09:03:25.808+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6448f8e314c6d07fbd1d11dd"), 
+    "email" : "saoussen_aguel@yahoo.fr", 
+    "password" : "$2b$10$Tn00qN5gbd0z9xucZ6AXHenUfGxnfLHAg/qjnJluGF5Z601WA4h3O", 
+    "firstname" : "Saoussen", 
+    "lastname" : "ELAGUEL", 
+    "role" : "user", 
+    "isActive" : true, 
+    "avatar" : "314599337_581917357068715_5150891057126580456_n.jpg", 
+    "createdAt" : ISODate("2023-04-26T10:11:47.755+0000"), 
+    "updatedAt" : ISODate("2023-04-26T10:12:25.390+0000"), 
+    "__v" : NumberInt(0)
+}

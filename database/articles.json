@@ -1,0 +1,262 @@
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62094"), 
+    "designation" : "Logicom La Tab Link 71 - 7\"- 16GB", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755151/images/tab.jpg.jpg", 
+    "marque" : "Logicom", 
+    "prix" : NumberInt(184), 
+    "qtestock" : NumberInt(20), 
+    "reference" : "Tablog", 
+    "scategorieID" : "61f06deb3d65ee46baf19370"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62095"), 
+    "designation" : "Lenovo Tab M7 7.0 - 16GB", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754720/images/lenov21.jpg.jpg", 
+    "marque" : "Lenouv", 
+    "prix" : NumberInt(269), 
+    "qtestock" : NumberInt(25), 
+    "reference" : "Lenoouv1", 
+    "scategorieID" : "61f06deb3d65ee46baf19370"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62096"), 
+    "designation" : "Huawei Tablette - MatePad T", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754627/images/hwawi1.jpg.jpg", 
+    "marque" : "Huawei", 
+    "prix" : NumberInt(384), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Huawi1", 
+    "scategorieID" : "61f06deb3d65ee46baf19370"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62097"), 
+    "designation" : "Huawei MatePad T - 10", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754588/images/hw.jpg.jpg", 
+    "marque" : "Huawei", 
+    "prix" : NumberInt(499), 
+    "qtestock" : NumberInt(50), 
+    "reference" : "Huawei10", 
+    "scategorieID" : "61f06deb3d65ee46baf19370"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62098"), 
+    "designation" : "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754499/images/HP1.jpg.jpg", 
+    "marque" : "Hp", 
+    "prix" : NumberInt(4280), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "HP1", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b62099"), 
+    "designation" : "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754720/images/lenov21.jpg.jpg", 
+    "marque" : "Lenovo", 
+    "prix" : NumberInt(1299), 
+    "qtestock" : NumberInt(20), 
+    "reference" : "lenov1", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b6209a"), 
+    "designation" : "Lenovo PC Portable IP330/4000 DualCore/4Go/1To", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754854/images/lenov23.jpg.jpg", 
+    "marque" : "Lenovo", 
+    "prix" : NumberInt(899), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Lenov22", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b6209b"), 
+    "designation" : "DELL PC Inspiron 5570", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754060/images/dell.jpg.jpg", 
+    "marque" : "DELL", 
+    "prix" : NumberInt(2470), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Dell5570", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b6209c"), 
+    "designation" : "Versus Pc portable V-Book - 2 Go", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755316/images/versus2.jpg.jpg", 
+    "marque" : "Versus", 
+    "prix" : NumberInt(469), 
+    "qtestock" : NumberInt(50), 
+    "reference" : "VersusVBOO", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b6209d"), 
+    "designation" : "Hp Pc portable I3 11è Gén 8Go", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754533/images/hp10.jpg.jpg", 
+    "marque" : "Hp", 
+    "prix" : NumberInt(1533), 
+    "qtestock" : NumberInt(20), 
+    "reference" : "HPI3", 
+    "scategorieID" : "61f06deb3d65ee46baf19376"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b6209f"), 
+    "designation" : "Samsung Téléviseur 43\" - Flat Smart Full HD TV", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755102/images/tele1.jpg.jpg", 
+    "marque" : "Samsung", 
+    "prix" : NumberInt(1399), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Samsung5300", 
+    "scategorieID" : "61f06deb3d65ee46baf1936b"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a2"), 
+    "designation" : "Telefunken TV 43\" - E20 - LED - Full HD", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754162/images/f1.jpg.jpg", 
+    "marque" : "Telefunken", 
+    "prix" : NumberInt(1120), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "E20", 
+    "scategorieID" : "61f06deb3d65ee46baf1936a"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a3"), 
+    "designation" : "LG TV LG 4K Smart UHD UN73 de 43 pouces", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754881/images/lg.jpg.jpg", 
+    "marque" : "LG", 
+    "prix" : NumberInt(1459), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "LG1", 
+    "scategorieID" : "61f06deb3d65ee46baf1936a"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a4"), 
+    "designation" : "Samsung Tv - 43\" Full HD Smart N5300", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755290/images/s1.jpg.jpg", 
+    "marque" : "1200", 
+    "prix" : NumberInt(1429), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "UA43N5300", 
+    "scategorieID" : "61f06deb3d65ee46baf1936b"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a5"), 
+    "designation" : "Samsung TV Crystal UHD 50 pouces", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755263/images/crystal1.jpg.jpg", 
+    "marque" : "Samsung", 
+    "prix" : NumberInt(2100), 
+    "qtestock" : NumberInt(1920), 
+    "reference" : "TU7100", 
+    "scategorieID" : "61f06deb3d65ee46baf1936c"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a7"), 
+    "designation" : "Samsung Téléviseur 55\" LED ULTRA HD 4K Smart tv", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755069/images/hd2.jpg.jpg", 
+    "marque" : "Samsung", 
+    "prix" : NumberInt(2999), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Sams55", 
+    "scategorieID" : "61f06deb3d65ee46baf1936c"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a8"), 
+    "designation" : "Samsung Smart 4K TV UHD - 65\"", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658755035/images/k4.jpg.jpg", 
+    "marque" : "Samsung", 
+    "prix" : NumberInt(4399), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "RU7100", 
+    "scategorieID" : "61f06deb3d65ee46baf1936b"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620a9"), 
+    "designation" : "XIAOMI Caméra de sécurité XIAOMI Home 360", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658751572/images/cam.jpg.jpg", 
+    "marque" : "XIAOMI", 
+    "prix" : NumberInt(119), 
+    "qtestock" : NumberInt(20), 
+    "reference" : "Home 360", 
+    "scategorieID" : "61f06deb3d65ee46baf1936b"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620aa"), 
+    "designation" : "Power résistance bands", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754982/images/sport1.jpg.jpg", 
+    "marque" : "m", 
+    "prix" : NumberInt(73), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "pw1", 
+    "scategorieID" : "61f06deb3d65ee46baf19383"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620ab"), 
+    "designation" : "Sandisk Flash Disque", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754288/images/flash1.jpg.jpg", 
+    "marque" : "Sandisk", 
+    "prix" : NumberInt(14), 
+    "qtestock" : NumberInt(100), 
+    "reference" : "flash1", 
+    "scategorieID" : "61f06deb3d65ee46baf19375"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620ac"), 
+    "designation" : "Iron Gym Barre fixe démontable", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754379/images/gym.jpg.jpg", 
+    "marque" : "Iron Gym", 
+    "prix" : NumberInt(75), 
+    "qtestock" : NumberInt(100), 
+    "reference" : "Gym1", 
+    "scategorieID" : "61f06deb3d65ee46baf19380"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620ad"), 
+    "designation" : "Iron Gym Barre fixe démontable", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754405/images/g9.jpg.jpg", 
+    "marque" : "Iron Gym", 
+    "prix" : NumberInt(59), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Gym11", 
+    "scategorieID" : "61f06deb3d65ee46baf19383"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620af"), 
+    "designation" : "Haltères en Néoprène - Paire d'haltères", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658749741/images/b1.jpg.jpg", 
+    "marque" : "Halt", 
+    "prix" : NumberInt(45), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Halt1", 
+    "scategorieID" : "61f06deb3d65ee46baf19383"
+}
+{ 
+    "_id" : ObjectId("63d56460e227dfb414b620b0"), 
+    "designation" : "K-REINE Pack l’indispensable soins de visage k reine", 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754683/images/beaute.jpg.jpg", 
+    "marque" : "Kene", 
+    "prix" : NumberInt(35), 
+    "qtestock" : NumberInt(10), 
+    "reference" : "Kreine", 
+    "scategorieID" : "61f06deb3d65ee46baf19384"
+}
+{ 
+    "_id" : ObjectId("63f5ec510d005550d3b7a48f"), 
+    "reference" : "portable", 
+    "designation" : "Delice", 
+    "prix" : NumberInt(120), 
+    "marque" : "Delice", 
+    "qtestock" : NumberInt(1000), 
+    "imageart" : "http://res.cloudinary.com/iset-sfax/image/upload/v1658754189/images/eausabrine.jpg.jpg", 
+    "scategorieID" : ObjectId("61f06deb3d65ee46baf19391"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("64676dbfe21397d05a02125d"), 
+    "reference" : "saou", 
+    "designation" : "saou", 
+    "prix" : NumberInt(1), 
+    "marque" : "saou", 
+    "qtestock" : NumberInt(1), 
+    "imageart" : "", 
+    "scategorieID" : ObjectId("61f06deb3d65ee46baf1938c"), 
+    "__v" : NumberInt(0)
+}
